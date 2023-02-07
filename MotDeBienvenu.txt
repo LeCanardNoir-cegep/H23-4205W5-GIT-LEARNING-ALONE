@@ -1,6 +1,7 @@
 Bla bla bla bla
 
 Quel est le slogant du cours:
-reponse
+reponse:
+Comment, commit, push
 
 Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla 
